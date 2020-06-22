@@ -1,0 +1,28 @@
+Year,Grade,Decomposition,Pattern Recognition,Abstraction,Modelling & Simulation,Algorithms,Image,Correct Answer,A,B,C,D,Notes
+"3,4",A,X,X,X,,X,,"YBGR (yellow, blue, green, red)",,,,,"From left to right, up to down, other options include: RGBY, BYRG, GYBR."
+"3,4",A,X,X,X,,X,,D (fourth set of footprints).,,,,,"From left to right, A to D."
+"3,4",A,X,,X,X,X,,,,,,,Must find shortest path in network.
+"3,4",A,X,,X,,X,,"A (right, up, right, down, right, up, right).",,,,,"See page 9, 2019 booklet."
+"3,4",A,X,,X,,X,,C (upside down snake).,,,,,
+"3,4",B,X,,X,X,,,ALL but top middle + top right.,,,,,
+,,,,,,,,Three pieces without crust.,,,,,
+,,,,,,,,Two correct answers: third and fourth piles.,,,,,
+,,,,,,,,Six trees.,,,,,"Start from bottom right, working around clockwise."
+,,,,,,,,Dinmore.,,,,,Only one interchange needed at Moor.
+,,,,,,,,,,,,,
+,,,,,,,,Nine pieces of rubbish.,,,,,
+,,,,,,,,Meet at green circle (3+4+5=12).,,,,,
+,,,,,,,,6 points.,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,"32, 4 and 1 litre bottles.",,,,,
+,,,,,,,,Flower set D.,,,,,
+,,,,,,,,"Multiple answers (see page 37, 2019).",There are many variations resulting from following the rules provided.,,,,
+,,,,,,,,Ice-cream cone D.,Only cone that clearly does not follow rules in visible section.,,,,
+,,,,,,,,Alien Mutation C.,"Each mutation overwrites previous. Therefore, alien ends with mutations as in Diagram C.",,,,
+,,,,,,,,,"See page 44, 2019 booklet for detailed reasoning.",,,,
+,,,,,,,,Change direction of arrow in B3.,"Columns A-C, Rows 1-4.",,,,
+,,,,,,,,Can be completed with only 3 colours.,"Many possible answers, see page 48, 2019 booklet.",,,,
+,,,,,,,,"Many possible solutions (see page 50, 2019 booklet).","One method of answering this question involves writing long code sequence, and finding combination patterns that can be shortened.",,,,
+,,,,,,,,Start at Box 3 to visit every box.,Hint: work backwards.,,,,
+,,,,,,,,"One of the lifts can take the beavers and luggage that weigh: 2kg, 3kg, 5kg, 8kg and 12kg. The other lift can take the beavers and luggage that weigh:12kg, 9kg and 9kg.","Explores heuristics (finding a good solution, but potentially not the best solution).",,,,
+,,,,,,,,7 2 6 2 9 2 6 2 7,,,,,
